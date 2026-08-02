@@ -1,2 +1,1 @@
-# Week-1
-To develop a CNN model to classify images of plastic waste project
+Building a Brain in 10 Minutes
